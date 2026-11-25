@@ -1,4 +1,4 @@
-# Hi, I'm Reduan Hossain 👋
+# Hi, I'm Reduan Hossain 
 
 **Digital Marketer | SEO Specialist | Local SEO | Google Business Profile | Meta Ads | Organic Growth**
 
@@ -10,12 +10,12 @@ Bangladesh-based Digital Marketer working with USA & Canada markets — plus IT 
 - 📍 **Google Business Profile** — complete, optimised profiles that bring calls & visits
 - 📣 **Meta Ads** — Facebook advertising with a clear goal & audience
 - 🌱 **Organic Growth** — educational content that grows an audience
-- 💻 **Computer Education** — Microsoft Word, Excel & PowerPoint, taught in Bangla
+- 💻 ** IT  Training & Digital marketer 
 
 ## My projects
 
 - **Reduan Computer** — Bangla Microsoft Office learning: https://www.facebook.com/reduancomputer
-- **Reduan Digital** — Digital Marketing & SEO education in English: https://www.facebook.com/61595888672151
+- **Reduan Digital** — Digital Marketing & SEO education in English https://www.facebook.com/iamreduanhossain/)
 - **TerraNest** — Educational nature videos on YouTube: https://www.youtube.com/@TerraNestTV
 - **Portfolio** — https://reduanworksite.github.io/reduan-computer-portfolio/
 
