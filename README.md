@@ -22,6 +22,7 @@ Bangladesh-based Digital Marketer working with USA & Canada markets — plus IT 
 - **GMB Client Hunting System** — dashboard for finding & tracking Google Business Profile clients in the USA & Canada: [Live Demo](https://reduanworksite.github.io/reduan-gmb-client-hunting/) · [Code](https://github.com/reduanworksite/reduan-gmb-client-hunting)
 - **Reduan Computer Portfolio** — portfolio website for Reduan Computer: [Live Demo](https://reduanworksite.github.io/reduan-computer-portfolio/) · [Code](https://github.com/reduanworksite/reduan-computer-portfolio)
 - **MY LIFE 360** — offline-first Android life-management app (tasks, stopwatch, screen-time tracking)
+- **Al-Quran Web** — premium Quran reading website: 114 surahs, 6,236 ayahs with Arabic, Bangla & English translations, audio recitation, search & dashboard: [Live Demo](https://reduanworksite.github.io/al-quran-web/) · [Code](https://github.com/reduanworksite/al-quran-web)
 
 ## Content & channels
 
