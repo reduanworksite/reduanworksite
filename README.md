@@ -1,4 +1,4 @@
-# Hi, I'm Reduan Hossain 👋
+# Hi, I'm Reduan Hossain 
 
 **Digital Marketer | SEO Specialist | Local SEO | Google Business Profile | Meta Ads | Organic Growth**
 
