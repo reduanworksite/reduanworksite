@@ -1,4 +1,4 @@
-# Hi, I'm Reduan Hossain 
+# Hi, I'm Reduan Hossain 👋
 
 **Digital Marketer | SEO Specialist | Local SEO | Google Business Profile | Meta Ads | Organic Growth**
 
@@ -10,14 +10,24 @@ Bangladesh-based Digital Marketer working with USA & Canada markets — plus IT 
 - 📍 **Google Business Profile** — complete, optimised profiles that bring calls & visits
 - 📣 **Meta Ads** — Facebook advertising with a clear goal & audience
 - 🌱 **Organic Growth** — educational content that grows an audience
-- 💻 ** IT  Training & Digital marketer 
+- 💻 **Computer Education** — Microsoft Word, Excel & PowerPoint, taught in Bangla
 
 ## My projects
 
+- **Reduan Portfolio** — my professional portfolio website: [Live Demo](https://reduanworksite.github.io/reduan-portfolio/) · [Code](https://github.com/reduanworksite/reduan-portfolio)
+- **Basic Computer Learning** — beginner-friendly Bangla computer learning website with lessons, quiz & practice: [Live Demo](https://reduanworksite.github.io/basic-computer-learning/) · [Code](https://github.com/reduanworksite/basic-computer-learning)
+- **Reduan Typing Master** — English & Bangla typing practice, speed test and progress tracking (Unicode & Bijoy): [Live Demo](https://reduanworksite.github.io/reduan-typing-master/) · [Code](https://github.com/reduanworksite/reduan-typing-master)
+- **Reduan Computer Admission** — premium animated student admission landing page with bKash payment & instant Student ID: [Live Demo](https://reduanworksite.github.io/reduan-computer-admission/) · [Code](https://github.com/reduanworksite/reduan-computer-admission)
+- **Reduan Computer Management** — course management platform for my computer education centre (students, batches, payments, expenses): [Progress Report](https://reduanworksite.github.io/reduan-computer-management/) · [Code](https://github.com/reduanworksite/reduan-computer-management)
+- **GMB Client Hunting System** — dashboard for finding & tracking Google Business Profile clients in the USA & Canada: [Live Demo](https://reduanworksite.github.io/reduan-gmb-client-hunting/) · [Code](https://github.com/reduanworksite/reduan-gmb-client-hunting)
+- **Reduan Computer Portfolio** — portfolio website for Reduan Computer: [Live Demo](https://reduanworksite.github.io/reduan-computer-portfolio/) · [Code](https://github.com/reduanworksite/reduan-computer-portfolio)
+- **MY LIFE 360** — offline-first Android life-management app (tasks, stopwatch, screen-time tracking)
+
+## Content & channels
+
 - **Reduan Computer** — Bangla Microsoft Office learning: https://www.facebook.com/reduancomputer
-- **Reduan Digital** — Digital Marketing & SEO education in English https://www.facebook.com/iamreduanhossain/)
+- **Reduan Digital** — Digital Marketing & SEO education in English: https://www.facebook.com/61595888672151
 - **TerraNest** — Educational nature videos on YouTube: https://www.youtube.com/@TerraNestTV
-- **Portfolio** — https://reduanworksite.github.io/reduan-computer-portfolio/
 
 ## Connect
 
