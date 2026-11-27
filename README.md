@@ -23,9 +23,10 @@ Bangladesh-based Digital Marketer working with USA & Canada markets — plus IT 
 - **Reduan Computer Portfolio** — portfolio website for Reduan Computer: [Live Demo](https://reduanworksite.github.io/reduan-computer-portfolio/) · [Code](https://github.com/reduanworksite/reduan-computer-portfolio)
 - **MY LIFE 360** — offline-first Android life-management app (tasks, stopwatch, screen-time tracking)
 - **Al-Quran Web** — premium Quran reading website: 114 surahs, 6,236 ayahs with Arabic, Bangla & English translations, audio recitation, search & dashboard: [Live Demo](https://reduanworksite.github.io/al-quran-web/) · [Code](https://github.com/reduanworksite/al-quran-web)
+- **Amar Masjid** — Bangladesh digital mosque directory: search, register and explore mosques across all 64 districts, with admin approval and individual mosque profile pages: [Live Demo](https://reduanworksite.github.io/amar-masjid/) · [Code](https://github.com/reduanworksite/amar-masjid)
+
 
 ## Content & channels
-
 - **Reduan Computer** — Bangla Microsoft Office learning: https://www.facebook.com/reduancomputer
 - **Reduan Digital** — Digital Marketing & SEO education in English: https://www.facebook.com/61595888672151
 - **TerraNest** — Educational nature videos on YouTube: https://www.youtube.com/@TerraNestTV
